@@ -1,0 +1,1 @@
+# desert-monsters-service-registry
